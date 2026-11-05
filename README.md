@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sana 👋
 
-<!--
-**sanasajjad16/sanasajjad16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer · M.Sc. Software Engineering · Germany**
 
-Here are some ideas to get you started:
+I build **agentic AI** applications: LLM agents, RAG pipelines and tools that give grounded, trustworthy answers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Featured projects
+- **[trustworthy-datasheet-agent](https://github.com/sanasajjad16/trustworthy-datasheet-agent)**: an AI agent that answers technical questions from public semiconductor datasheets, with answers grounded in the source documents
+- **KnowTheCode** *(in progress)*: a tool that explains AI-written code changes and quizzes developers on them, with a team knowledge map
+
+### 🛠️ Tech stack
+**AI:** Agentic AI · LangChain · RAG · LLMs  
+**Languages:** Python · Kotlin · C++ · HTML/CSS  
+**Other:** DevSecOps · UI/UX design
+
+### 🌱 Currently
+Building agentic AI projects and deepening my skills in LLM engineering.
