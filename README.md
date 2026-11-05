@@ -2,16 +2,16 @@
 
 **AI Engineer · M.Sc. Software Engineering · Germany**
 
-I build **agentic AI** applications: LLM agents, RAG pipelines and tools that give grounded, trustworthy answers.
+I design and build **agentic AI systems**: LLM agents and retrieval pipelines that are grounded in their sources, verify their own answers, and are built with production practices from day one.
 
 ### 🔨 Featured projects
-- **[trustworthy-datasheet-agent](https://github.com/sanasajjad16/trustworthy-datasheet-agent)**: an AI agent that answers technical questions from public semiconductor datasheets, with answers grounded in the source documents
-- **KnowTheCode** *(in progress)*: a tool that explains AI-written code changes and quizzes developers on them, with a team knowledge map
+- **[trustworthy-datasheet-agent](https://github.com/sanasajjad16/trustworthy-datasheet-agent)**: an agent that answers technical questions from semiconductor datasheets, cites its sources, checks its own answers, and refuses when it isn't confident
+- **KnowTheCode** *(in progress)*: a tool that explains AI-generated code changes and tests developers' understanding of them, with a team knowledge map
 
 ### 🛠️ Tech stack
-**AI:** Agentic AI · LangChain · RAG · LLMs  
-**Languages:** Python · Kotlin · C++ · HTML/CSS  
-**Other:** DevSecOps · UI/UX design
+**AI & LLMs:** Agentic AI · LangChain · RAG · LLM application design  
+**Languages:** Python · Kotlin  
+**Engineering:** FastAPI · Docker · CI/CD (GitHub Actions) · Google Cloud Run
 
-### 🌱 Currently
-Building agentic AI projects and deepening my skills in LLM engineering.
+### 🎯 Focus
+Building reliable, trustworthy AI systems that people can actually depend on.
